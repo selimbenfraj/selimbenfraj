@@ -1,7 +1,4 @@
-<!-- AI DATA SCIENCE PROFILE -->
-
 <h1 align="center">Hi 👋 I'm Selim Ben Fraj</h1>
-
 <h3 align="center">Data Science & Artificial Intelligence Student 🤖📊</h3>
 
 <p align="center">
@@ -19,15 +16,15 @@ Building intelligent systems with Machine Learning, Data Science and AI
 • Machine Learning  
 • Artificial Intelligence  
 • Data Analysis  
-• AI-powered Web Applications  
 • Intelligent Systems  
+• AI-powered Web Applications  
 
 🚀 Currently working on:
 
 • AI Smart Pricing Systems  
 • Data Science Projects  
-• AI Chatbots  
 • Recommendation Systems  
+• AI Chatbots  
 
 🌍 Goal:
 
@@ -35,33 +32,33 @@ Become an **AI Engineer / Data Scientist working on global innovative projects**
 
 ---
 
-# 🧠 AI / Data Science Skills
+# ⚡ Tech Stack
 
-### Programming
+## Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,r,java,cpp,javascript" />
 </p>
 
-### Data Science
+## Data Science & AI
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
 
-### Web & Backend
+## Backend & Web
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring,fastapi,react,nodejs" />
 </p>
 
-### Databases
+## Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-### Tools
+## Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
@@ -75,7 +72,7 @@ Become an **AI Engineer / Data Scientist working on global innovative projects**
 
 Machine learning system predicting optimal Airbnb prices.
 
-Technologies
+Technologies:
 
 Python  
 Scikit-learn  
@@ -88,13 +85,13 @@ React
 
 AI powered platform to discover and book camping trips worldwide.
 
-Features
+Features:
 
 • AI recommendation system  
 • Booking analytics  
 • BI dashboard  
 
-Technologies
+Technologies:
 
 Spring Boot  
 Python ML  
@@ -104,9 +101,9 @@ React
 
 ## 📊 Data Science Projects
 
-Data analysis and predictive modeling.
+Exploratory data analysis and predictive modeling.
 
-Tools
+Tools:
 
 Pandas  
 NumPy  
@@ -115,11 +112,11 @@ Machine Learning
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=selimbenfraj&show_icons=true&theme=tokyonight" />
 
 </p>
 
@@ -129,7 +126,7 @@ Machine Learning
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selimbenfraj&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -139,7 +136,7 @@ Machine Learning
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=selimbenfraj&theme=tokyonight" />
 
 </p>
 
@@ -149,7 +146,7 @@ Machine Learning
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=selimbenfraj&theme=tokyonight&margin-w=15" />
 
 </p>
 
@@ -159,7 +156,7 @@ Machine Learning
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/selimbenfraj/selimbenfraj/output/snake.svg" alt="Snake animation" />
 
 </p>
 
@@ -169,7 +166,7 @@ Machine Learning
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=selimbenfraj&color=blue&style=for-the-badge" />
 
 </p>
 
