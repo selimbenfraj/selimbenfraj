@@ -1,10 +1,8 @@
-<!-- HEADER -->
+<!-- AI DATA SCIENCE PROFILE -->
 
-<h1 align="center">Hi 👋, I'm Selim Ben Fraj</h1>
+<h1 align="center">Hi 👋 I'm Selim Ben Fraj</h1>
 
-<p align="center">
-Data Science & Artificial Intelligence Student 🤖📊
-</p>
+<h3 align="center">Data Science & Artificial Intelligence Student 🤖📊</h3>
 
 <p align="center">
 Building intelligent systems with Machine Learning, Data Science and AI
@@ -12,133 +10,168 @@ Building intelligent systems with Machine Learning, Data Science and AI
 
 ---
 
-# 🧠 About Me
+# 👨‍💻 About Me
 
-🎓 Data Science & AI engineering student  
+🎓 Data Science & AI Engineering Student  
 
-💡 Passionate about:
+🧠 Interested in:
 
-- Machine Learning
-- Artificial Intelligence
-- Data Analysis
-- Intelligent Systems
-- AI-powered applications
+• Machine Learning  
+• Artificial Intelligence  
+• Data Analysis  
+• AI-powered Web Applications  
+• Intelligent Systems  
 
 🚀 Currently working on:
 
-- AI Smart Pricing Systems
-- Data Science Projects
-- AI Chatbots
-- Machine Learning Models
+• AI Smart Pricing Systems  
+• Data Science Projects  
+• AI Chatbots  
+• Recommendation Systems  
 
-🌍 Goal:  
-Become an **AI Engineer / Data Scientist working on global tech projects**
+🌍 Goal:
 
----
-
-# ⚡ Tech Stack
-
-## Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+Become an **AI Engineer / Data Scientist working on global innovative projects**
 
 ---
 
-## Data Science & AI
+# 🧠 AI / Data Science Skills
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+### Programming
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,java,cpp,javascript" />
+</p>
 
-## Web & Backend
+### Data Science
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
 
----
+### Web & Backend
 
-## Databases
+<p>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,react,nodejs" />
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🤖 AI Smart Pricing System
+## 🤖 AI Smart Pricing System
 
-Machine learning model predicting optimal Airbnb prices.
+Machine learning system predicting optimal Airbnb prices.
 
-Tech:
+Technologies
 
-- Python
-- Scikit-learn
-- FastAPI
-- React
-
----
-
-### 🏕️ Camping Trip AI Platform
-
-AI-powered platform to discover and book camping trips worldwide.
-
-Features:
-
-- AI recommendation system
-- Booking analytics
-- BI dashboard
-
-Tech:
-
-- Spring Boot
-- Python ML
-- React
+Python  
+Scikit-learn  
+FastAPI  
+React  
 
 ---
 
-### 📊 Data Science Projects
+## 🏕️ Camping AI Trip Platform
 
-Exploratory Data Analysis and predictive models.
+AI powered platform to discover and book camping trips worldwide.
 
-Tools:
+Features
 
-- Pandas
-- NumPy
-- Matplotlib
-- Machine Learning
+• AI recommendation system  
+• Booking analytics  
+• BI dashboard  
+
+Technologies
+
+Spring Boot  
+Python ML  
+React  
 
 ---
 
-# 📊 GitHub Stats
+## 📊 Data Science Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+Data analysis and predictive modeling.
+
+Tools
+
+Pandas  
+NumPy  
+Matplotlib  
+Machine Learning  
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+</p>
 
 ---
 
 # 📈 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15" />
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="snake animation" />
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=for-the-badge" />
+
+</p>
 
 ---
 
@@ -149,4 +182,4 @@ Tools:
 
 ---
 
-⭐ If you like my work, feel free to **star my repositories!**
+⭐ If you like my work, feel free to **star my repositories**
